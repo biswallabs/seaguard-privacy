@@ -4,7 +4,7 @@ title: SeaGuard Firewall Privacy Policy
 
 # SeaGuard Firewall Privacy Policy
 
-_Last updated: November 13, 2026_
+_Last updated: November 19, 2026_
 
 
 ## Summary
@@ -36,6 +36,7 @@ Backup & Restore and Export CSV create text or a file only when you tap them and
 - **Start at boot:** to restore protection after a restart, only if you turn this on.
 - **Network state:** to apply Wi-Fi and mobile-data rules.
 - **Usage access (PACKAGE_USAGE_STATS):** optional, to show per-app data use, check your data limits, suggest apps that use data in the background and, if you turn them on, fill the extra lines in the status notification.
+- **Display over other apps (SYSTEM_ALERT_WINDOW):** optional, only if you turn on the Smart sidebar, to draw SeaGuard Firewall’s own sidebar at the edge of the screen. SeaGuard Firewall does not see, read or record what other apps show.
 - **Fingerprint (USE_BIOMETRIC):** only if you turn on App Lock, to ask Android to check your fingerprint or face.
 - **Internet:** a standard permission of the app framework; SeaGuard Firewall itself makes no network connections and uploads nothing.
 - **Vibrate:** for haptic feedback.
