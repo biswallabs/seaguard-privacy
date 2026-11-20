@@ -4,12 +4,12 @@ title: SeaGuard Firewall Privacy Policy
 
 # SeaGuard Firewall Privacy Policy
 
-_Last updated: November 19, 2026_
+_Last updated: November 20, 2026_
 
 
 ## Summary
 
-SeaGuard Firewall is a local firewall for Android. It runs entirely on your device. We have no servers, no accounts, no analytics, no advertising and we do not collect, sell or share your personal data.
+SeaGuard Firewall is developed by Biswal Labs. SeaGuard Firewall is a local firewall for Android. It runs entirely on your device. We have no servers, no accounts, no analytics, no advertising and we do not collect, sell or share your personal data.
 
 ## How SeaGuard Firewall uses the VPN permission
 
@@ -47,4 +47,4 @@ SeaGuard Firewall is not directed to children under 13 and does not knowingly co
 
 ## Changes and contact
 
-If this policy changes, the new version will be published in the app and on the store listing. Questions: support.seaguard@gmail.com
+If this policy changes, the new version will be published in the app and on the store listing. Developer: Biswal Labs. Questions: support.seaguard@gmail.com
