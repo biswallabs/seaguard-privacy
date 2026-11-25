@@ -4,7 +4,7 @@ title: SeaGuard Firewall Privacy Policy
 
 # SeaGuard Firewall Privacy Policy
 
-_Last updated: November 20, 2026_
+_Last updated: November 25, 2026_
 
 
 ## Summary
@@ -47,4 +47,4 @@ SeaGuard Firewall is not directed to children under 13 and does not knowingly co
 
 ## Changes and contact
 
-If this policy changes, the new version will be published in the app and on the store listing. Developer: Biswal Labs. Questions: support.seaguard@gmail.com
+If this policy changes, the new version will be published in the app and on the store listing. Developer: Biswal Labs. Questions: biswallabs@gmail.com
